@@ -1,0 +1,7 @@
+fastapi
+uvicorn
+prometheus-client
+redis
+PyJWT
+cryptography
+pydantic
